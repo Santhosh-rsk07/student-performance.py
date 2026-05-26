@@ -30,7 +30,7 @@ It includes data cleaning, visualization, and performance category analysis.
 jupyter notebook
 4. Run all cells in the notebook.
 
-##Output
+## Output
   Student category analysis
   Graphical representation of marks
   Performance insights   
